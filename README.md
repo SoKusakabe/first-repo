@@ -1,2 +1,3 @@
 # first-repo
-Branch practice: feature/readme-update
+
+See learning docs in `docs/README.md`.

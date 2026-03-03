@@ -38,3 +38,5 @@
 
 #### 次回メモ
 - 
+
+- 2026-03-03: gh CLI login and PR creation practice
